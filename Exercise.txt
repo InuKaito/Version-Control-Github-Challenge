@@ -1,0 +1,9 @@
+1. Explain what the terminal is in your own words.
+The terminal was your computer back in the day where you would write text to open up applications that you want to use. You can also use it to get to different locations in your computer by typing different commands to open up folders. While using the terminal you can also create, delete folders or you can mess up and delete a system on your hardware  and cause your computer not to work anymore.
+
+2. What is the major difference between Git and Github?
+Git is used to store different versions of a file in a remote or local repository. It is also used to track updates in the code files that you make. It also allows people to work together on projects by cloning the coding file to their computers. Github is were you push your local repository file to a cloud storage system. Your files will be stored as whatever branch you put it like a master file or different branches you create before pushing to the master file to update the master file. 
+
+
+3. Why do we use Github?
+We you GitHub for storing our local repository files. It is also used for projects because you can store a file on there and make it public or private where only certain people can see. Once the file is in GitHub you or your peers can clone your file to there local repository to work on and make branches to push back into GitHub. Where you and your peers can see which files in each branch that you guys like and push it to the master file to make changes to it before presenting it to your boss or other peers.
